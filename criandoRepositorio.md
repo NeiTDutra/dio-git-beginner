@@ -9,4 +9,6 @@ Para criar um novo repositório:
 
 - digite um nome para o repositório, uma descrição e se é público ou privado;
 
-![atributes]()
+![atributes](https://github.com/NeiTDutra/dio-git-beginner/blob/main/images/atributosRepositorio.png)
+
+
