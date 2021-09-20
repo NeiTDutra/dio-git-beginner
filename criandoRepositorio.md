@@ -17,4 +17,4 @@ Para criar um novo repositório:
 
 - agora é só salvar o novo repositório criado
 
-![salvar]()
+![salvar](https://github.com/NeiTDutra/dio-git-beginner/blob/main/images/salvarNovoRepositorio.png)
