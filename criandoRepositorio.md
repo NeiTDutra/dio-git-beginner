@@ -21,4 +21,4 @@ Para criar um novo repositório:
 
 ## Próximo passo
 
-[Clonar repositório]()
+[Clonar repositório](https://github.com/NeiTDutra/dio-git-beginner/blob/main/clonandoRepositorio.md)
