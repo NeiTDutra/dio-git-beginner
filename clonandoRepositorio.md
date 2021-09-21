@@ -16,4 +16,8 @@ Para [clonar um repositório](https://docs.github.com/pt/github/creating-cloning
 git clone git@github.com:NeiTDutra/dio-git-beginner.git
 ```
 
-Os arquivos do projeto do github estarão no diretório local do projeto.
+Os arquivos do projeto do github estarão no diretório local do projeto (no mesmo diretório onde o comando foi executado).
+
+## Próximo passo
+
+[Alterar arquivos e commitar mudanças]()
