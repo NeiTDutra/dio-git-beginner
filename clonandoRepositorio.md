@@ -8,4 +8,6 @@ Para [clonar um repositório](https://docs.github.com/pt/github/creating-cloning
 - Escolha o tipo de conexão com o serviço do Github(2);
 - Copie o endereço / link / path(3);
 
-![clone github]()
+![clone github](https://github.com/NeiTDutra/dio-git-beginner/blob/main/images/clonandoRepositorio.png)
+
+
