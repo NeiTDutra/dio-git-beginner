@@ -10,4 +10,10 @@ Para [clonar um repositório](https://docs.github.com/pt/github/creating-cloning
 
 ![clone github](https://github.com/NeiTDutra/dio-git-beginner/blob/main/images/clonandoRepositorio.png)
 
+- No terminal do sistema e na pasta do projeto, com o [Github cli](https://cli.github.com/) instalado digite (neste caso SSH);
 
+```bash
+git clone git@github.com:NeiTDutra/dio-git-beginner.git
+```
+
+Os arquivos do projeto do github estarão no diretório local do projeto.
