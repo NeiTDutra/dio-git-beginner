@@ -4,4 +4,6 @@ Na pasta onde o comando clone foi executado é preciso agora ascender no diretó
 
 Dentro deste diretório além dos arquivos do proojeto clonado, existe uma pasta oculta que guarda todas alterações, chamada ".git".
 
-![pasta clonada]()
+![pasta clonada](https://github.com/NeiTDutra/dio-git-beginner/blob/main/images/arquivoGit.png)
+
+

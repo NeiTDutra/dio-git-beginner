@@ -20,4 +20,4 @@ Os arquivos do projeto do github estarão no diretório local do projeto (no mes
 
 ## Próximo passo
 
-[Alterar arquivos e commitar mudanças]()
+[Alterar arquivos e commitar mudanças](https://github.com/NeiTDutra/dio-git-beginner/blob/main/alterandoECommitando.md)
